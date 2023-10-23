@@ -7,7 +7,7 @@
 
 📫 How to reach me:
 - Email: anukulsaxena83@gmail.com
-- LinkedIn: https://www.linkedin.com/in/anukul-s-119101127/
+- LinkedIn: https://www.linkedin.com/in/anukul-prakash-saxena/
 
 👉 Check out my repositories. Feel free to connect and collaborate!
 
