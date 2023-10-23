@@ -3,7 +3,7 @@
 📍 Based in Uttarakhand/India
 
 🔭 I'm currently working on My MovieProject
-🌱 I'm currently learning Native React
+🌱 I'm currently learning MERN Stack
 
 📫 How to reach me:
 - Email: anukulsaxena83@gmail.com
